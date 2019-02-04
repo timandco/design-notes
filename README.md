@@ -30,6 +30,8 @@
 ## Resources
 
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks)
+- [Design Better](https://www.designbetter.co/)
+- [Invision DSM Videos](https://www.invisionapp.com/design-system-manager/expert-advice)
 
 ## Documentation
 
