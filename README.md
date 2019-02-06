@@ -5,8 +5,9 @@
 1. [Frameworks](#frameworks)
 2. [Elements](#elements)
 3. [Reading List](#reading-list)
-5. [Resources](#resources)
-4. [Documentation](#documentation)
+4. [Resources](#resources)
+5. [Documentation](#documentation)
+6. [Principles](principles.md)
 
 ## Frameworks
 
