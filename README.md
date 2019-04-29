@@ -27,6 +27,7 @@
 ## Reading List
 
 - [_On Markup and Layout_](https://thoughtbot.com/blog/on-markup-and-layout) - Joshua Ogle
+- [_Brutalist Web Design_](https://brutalist-web.design/) - Dave Copeland
 
 ## Resources
 
